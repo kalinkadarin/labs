@@ -1,0 +1,11 @@
+# Visual Studio files
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+ipch/
+Debug/
+Release/
+
